@@ -1,2 +1,2 @@
-# Mahesh-Joshi-Webstite
+# Mahesh-Joshi-Personal Site
 Personal Website 
